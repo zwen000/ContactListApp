@@ -23,7 +23,7 @@
             <children>
                 <HBox alignment="CENTER">
                     <ImageView fx:id="pic">
-                        <Image url="@me.png" />
+                        <Image url="@hjx.jpg" />
                     </ImageView>
                 </HBox>
             </children>
